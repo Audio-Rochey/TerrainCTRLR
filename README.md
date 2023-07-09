@@ -1,5 +1,5 @@
 # TerrainTronics Local Wireless Network Control
-### Last Updated June 21st 2023
+### Last Updated Junly 9th 2023
 
 ESP-Now is a wireless communication protocol that is made by Espressive, the makers of ESP8266 and ESP32.
 It doesn't require WiFi etc and is designed for it's own micro network.
